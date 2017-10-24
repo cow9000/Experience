@@ -1,0 +1,13 @@
+name: Exp
+main: me.DerekV.experience.Experience
+version: 0.1
+author: cow9000
+description: This description is a stub.
+commands:
+  rc:
+    description: gives you the technician kit!
+permissions:
+  rc.class:
+    description: Allow
+  rc.waypoint:
+    description: Allow

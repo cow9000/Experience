@@ -1,0 +1,34 @@
+#===============================#
+#=                  Experience plugin                          =#
+#=               Put the amount of xp per kill           =#
+#===============================#
+player: 25
+#Passive#
+bat: 1
+chicken: 1
+cow: 1
+mooshroom: 1
+horse: 1
+ocelot: 1
+pig: 1
+sheep: 1
+squid: 1
+villager: 1
+irongolem: 1
+snowgolem: 1
+#Hostile#
+enderdragon: 1
+wither: 1
+creeper: 1
+skeleton: 1
+zombie: 1
+enderman: 1
+spider: 1
+cavespider: 1
+wolf: 1
+zombiepig: 1
+blaze: 1
+ghast: 1
+silverfish: 1
+slime: 1
+witch: 1
